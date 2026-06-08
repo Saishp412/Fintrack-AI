@@ -184,6 +184,13 @@ cd fintrack-ai/mobile_app
 # Install Flutter packages
 flutter pub get
 
+# Setup Firebase (Required)
+# The project uses Firebase. You must configure it with your own Firebase project.
+# 1. Install Firebase CLI and login: `npm install -g firebase-tools` then `firebase login`
+# 2. Activate FlutterFire CLI: `dart pub global activate flutterfire_cli`
+# 3. Configure the project:
+flutterfire configure
+
 # Run the app
 flutter run
 ```
