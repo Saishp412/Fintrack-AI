@@ -125,7 +125,7 @@ The resulting analysis is parsed and presented to the user as concise, actionabl
 
 | Dashboard Overview | Expense Tracking | AI Insights & Advisory |
 | :---: | :---: | :---: |
-| <img src="Screenshots/screenshot_1.jpeg" width="250" alt="Dashboard"> | <img src="Screenshots/screenshot_2.jpeg" width="250" alt="Expenses"> | <img src="Screenshots/screenshot_8.jpeg" width="250" alt="AI Advisory"> |
+| <img src="Screenshots/screenshot_4.jpeg" width="250" alt="Dashboard"> | <img src="Screenshots/screenshot_2.jpeg" width="250" alt="Expenses"> | <img src="Screenshots/screenshot_8.jpeg" width="250" alt="AI Advisory"> |
 
 ## 12. Project Structure
 
